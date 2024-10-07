@@ -1,4 +1,4 @@
-![a.jpeg](https://raw.githubusercontent.com/FMisi/FMisi/refs/heads/main/a.jpeg)
+![a.jpeg](https://raw.githubusercontent.com/FMisi/FMisi/refs/heads/main/pic.jpeg)
 
 Hey everyone. I'm FMisi.
 
